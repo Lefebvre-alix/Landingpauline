@@ -1,0 +1,38 @@
+h1{
+	color: #180D44 ;
+	font-size: 60px;
+	font-family: Assistant;
+
+
+
+}
+
+
+h2 {
+  color: #180D44 ;
+	font-size: 30px;
+	font-family: Impact,Charcoal,sans-serif;
+}
+body {
+  color: rgb(29, 13, 92 ); 
+  font-size: 20px;    /* Text color */
+	background-color: #020215;  /* Background color */
+}
+
+#logo
+{width: 370px}
+#logo
+{ border-radius: 50%;}
+#logo
+{  border: 10px solid black;}
+
+#logo1
+{width: 200px}
+#logo1
+{border-radius:50%;}
+@media (max-width: 500px) {
+
+  .container {
+    width: 300px;
+  }
+}
